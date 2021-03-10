@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement>
+        <Style src="MainUI.uss" />
+        <ui:Button text="Button" style="background-image: url(&apos;/Assets/UI/Sprites/spr_btn_start.png&apos;); height: 77px; width: 138px; justify-content: flex-start; align-items: auto; white-space: nowrap;" />
+    </ui:VisualElement>
+</ui:UXML>
